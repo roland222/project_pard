@@ -1,0 +1,36 @@
+{
+	"_type": "UMLNameCompartmentView",
+	"_id": "AAAAAAFpDMeExv4r+VA=",
+	"_parent": {
+		"$ref": "AAAAAAFpDMeExv4qJBo="
+	},
+	"model": {
+		"$ref": "AAAAAAFpDMd9ScftUgY="
+	},
+	"visible": true,
+	"enabled": true,
+	"lineColor": "#000000",
+	"fillColor": "#ffffff",
+	"fontColor": "#000000",
+	"font": "Arial;13;0",
+	"showShadow": true,
+	"containerChangeable": false,
+	"containerExtending": false,
+	"left": 334,
+	"top": 175,
+	"width": 216,
+	"height": 25,
+	"autoResize": false,
+	"stereotypeLabel": {
+		"$ref": "AAAAAAFpDMeExv4ssWA="
+	},
+	"nameLabel": {
+		"$ref": "AAAAAAFpDMeExv4tGuM="
+	},
+	"namespaceLabel": {
+		"$ref": "AAAAAAFpDMeExv4uVng="
+	},
+	"propertyLabel": {
+		"$ref": "AAAAAAFpDMeExv4vEvc="
+	}
+}

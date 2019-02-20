@@ -1,0 +1,24 @@
+{
+	"_type": "UMLAttributeCompartmentView",
+	"_id": "AAAAAAFpDMd9Ssf1a8Y=",
+	"_parent": {
+		"$ref": "AAAAAAFpDMd9SsfvMR0="
+	},
+	"model": {
+		"$ref": "AAAAAAFpDMd9ScftUgY="
+	},
+	"visible": true,
+	"enabled": true,
+	"lineColor": "#000000",
+	"fillColor": "#ffffff",
+	"fontColor": "#000000",
+	"font": "Arial;13;0",
+	"showShadow": true,
+	"containerChangeable": false,
+	"containerExtending": false,
+	"left": 464,
+	"top": 321,
+	"width": 216,
+	"height": 10,
+	"autoResize": false
+}

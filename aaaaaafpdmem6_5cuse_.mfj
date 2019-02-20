@@ -1,0 +1,26 @@
+{
+	"_type": "LabelView",
+	"_id": "AAAAAAFpDMeM6/5CUSE=",
+	"_parent": {
+		"$ref": "AAAAAAFpDMeM6v4/j2Y="
+	},
+	"visible": false,
+	"enabled": true,
+	"lineColor": "#000000",
+	"fillColor": "#ffffff",
+	"fontColor": "#000000",
+	"font": "Arial;13;0",
+	"showShadow": true,
+	"containerChangeable": false,
+	"containerExtending": false,
+	"left": -702,
+	"top": -439,
+	"width": 73.67724609375,
+	"height": 13,
+	"autoResize": false,
+	"underline": false,
+	"text": "(from Model)",
+	"horizontalAlignment": 2,
+	"verticalAlignment": 5,
+	"wordWrap": false
+}
